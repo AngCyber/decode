@@ -8,7 +8,7 @@ $ pkg update && pkg upgrade
 $ pkg install python git
 $ git clone https://github.com/AngCyber/decode
 $ -m pip install --upgrade pip
-$ pip install -r sempak.txt
+$ pip install -r requirement.code
 $ cd decode
 $ python decode.py
 ```
