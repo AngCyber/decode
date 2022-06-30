@@ -1,0 +1,3 @@
+compile
+rich
+uncompyle6
