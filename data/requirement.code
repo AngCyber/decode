@@ -1,3 +1,0 @@
-compile
-rich
-uncompyle6
