@@ -8,8 +8,8 @@ $ pkg update && pkg upgrade
 $ pkg install python git
 $ git clone https://github.com/AngCyber/decode
 $ -m pip install --upgrade pip
-$ pip install -r requirement.code
 $ cd decode
+$ pip install -r requirement.code
 $ python decode.py
 ```
 #### Sosial Media
