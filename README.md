@@ -9,7 +9,7 @@ $ pkg install python git
 $ git clone https://github.com/AngCyber/decode
 $ -m pip install --upgrade pip
 $ cd decode
-$ pip install -r requirement.code
+$ pip install -r decode.tools
 $ python decode.py
 ```
 #### Sosial Media
