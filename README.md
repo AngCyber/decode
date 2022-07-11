@@ -7,7 +7,7 @@
 $ pkg update && pkg upgrade
 $ pkg install python git
 $ git clone https://github.com/AngCyber/decode
-$ -m pip install --upgrade pip
+$ python -m pip install --upgrade pip
 $ cd decode
 $ pip install -r decode.tools
 $ python decode.py
